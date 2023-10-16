@@ -12,7 +12,7 @@ I do have plan to do a version of this using these technologies in the future<br
 
 ## Observação Importante - PT
 Este project foi feito utilizando C++, SDL e QuickCG <br>
-QuickCG é uma pequena codebase SDL, foi feito para simples e para aprender basico de computação grafica. <br>
+QuickCG é uma pequena codebase SDL, foi feito para ser simples e para aprender basico de computação grafica. <br>
 Eu tinha o plano de usar OpenGL 3.0, GLFW e GLEW, mas percebi que iria tomar muito mais tempo que eu possuo e iria muito longe do que eu planejava aprender com esse projeto <br>
 Eu tenho sim o planejamento de fazer uma versão disso utilizando essas tecnologias no futuro <br>
 
