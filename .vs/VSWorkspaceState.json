@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\RaycastEngine",
-    "\\RaycastEngine\\src"
+    ""
   ],
-  "SelectedNode": "\\RaycastEngine\\src\\Application.cpp",
+  "SelectedNode": "\\LearnOpenGL.sln",
   "PreviewInSolutionExplorer": false
 }

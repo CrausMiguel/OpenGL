@@ -1,2 +1,4 @@
 ﻿  Application.cpp
-  RaycastEngine.vcxproj -> C:\Users\Laboratorio\Downloads\LearnOpenGL\x64\Debug\RaycastEngine.exe
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' não foi encontrado 'glew32s.lib(glew.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  LearnOpenGL.vcxproj -> C:\Users\Laboratorio\Downloads\OpenGL\x64\Debug\LearnOpenGL.exe

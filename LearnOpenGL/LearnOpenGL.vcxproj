@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{6ad7780e-7c76-4f51-9fcb-a801cf2fda74}</ProjectGuid>
-    <RootNamespace>RaycastEngine</RootNamespace>
+    <RootNamespace>LearnOpenGL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>LearnOpenGL</ProjectName>
   </PropertyGroup>
